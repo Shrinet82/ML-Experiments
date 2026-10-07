@@ -1,32 +1,28 @@
-# 21 Days of Machine Learning & Foundation Models
+# ML Experiments
 
-A structured 21-day deep dive into modern machine learning, foundation models, tabular architectures, and production-grade empirical benchmarking.
-
----
-
-## Roadmap & Directory Structure
-
-| Day | Topic | Highlights & Deliverables | Status |
-| :---: | :--- | :--- | :---: |
-| [**Day 1**](./Day%201) | **TabPFN: Tabular Foundation Models vs Tuned GBDTs** | In-context Bayesian inference vs CatBoost/XGBoost/LightGBM, 25-fold Stratified CV benchmark, calibration & uncertainty rejection curves, presentation deck | Completed |
-| **Day 2** | *Coming Soon* | — | Planned |
-| **Day 3** | *Coming Soon* | — | Planned |
-| ... | ... | ... | Planned |
-| **Day 21** | *Coming Soon* | — | Planned |
+A curated collection of empirical machine learning benchmarks, foundation model evaluations, tabular architectures, and production-grade ML experiments.
 
 ---
 
-## Daily Modules
+## Repository Structure & Modules
 
-### [Day 1: TabPFN — Tabular Foundation Model & GBDT Benchmark](./Day%201)
-* **Topic:** Empirical investigation of TabPFN v2 (Nature, Jan 2025) vs hyperparameter-tuned GBDTs (CatBoost, XGBoost, LightGBM).
-* **Key Findings:** TabPFN achieves competitive or superior ROC-AUC in a single forward pass without hyperparameter tuning, with calibrated epistemic uncertainty for selective classification.
+| Module | Description | Key Deliverables | Status |
+| :--- | :--- | :--- | :---: |
+| [**TabPFN**](./TabPFN) | **Tabular Foundation Models vs Tuned GBDTs** (Nature 2025 benchmark, in-context Bayesian inference vs CatBoost/XGBoost/LightGBM, 25-fold Stratified CV, epistemic uncertainty rejection curves) | Report, Benchmark Scripts, Notebook, Results & Presentation Deck | Completed |
+
+---
+
+## Featured Experiments
+
+### [TabPFN: Tabular Foundation Models vs Tuned GBDTs](./TabPFN)
+* **Focus:** Empirical investigation of TabPFN v2 (*Nature*, Jan 2025) compared to Bayesian/Optuna-tuned Gradient Boosted Decision Trees (CatBoost, XGBoost, LightGBM) across business-critical tabular datasets (`credit-g`, `bank-marketing`, `churn`, `adult`).
+* **Key Findings:** TabPFN achieves competitive or superior ROC-AUC in a single forward pass without hyperparameter tuning, with calibrated epistemic uncertainty for selective classification and rejection inference.
 * **Deliverables:**
-  - Full statistical report: [`BENCHMARK_REPORT.md`](./Day%201/BENCHMARK_REPORT.md)
-  - Visual presentation deck: [`TabPFN_Day1_Benchmark_Presentation.pdf`](./Day%201/TabPFN_Day1_Benchmark_Presentation.pdf)
-  - Interactive Jupyter notebook: [`tabpfn_benchmark.ipynb`](./Day%201/tabpfn_benchmark.ipynb)
-  - Standalone execution script: [`tabpfn_benchmark.py`](./Day%201/tabpfn_benchmark.py)
-  - Raw per-fold metrics, plots, and figures: [`results/`](./Day%201/results/)
+  - **Empirical Report:** [`TabPFN/BENCHMARK_REPORT.md`](./TabPFN/BENCHMARK_REPORT.md)
+  - **Presentation Deck:** [`TabPFN/TabPFN_Day1_Benchmark_Presentation.pdf`](./TabPFN/TabPFN_Day1_Benchmark_Presentation.pdf)
+  - **Interactive Notebook:** [`TabPFN/tabpfn_benchmark.ipynb`](./TabPFN/tabpfn_benchmark.ipynb)
+  - **Standalone Benchmark Script:** [`TabPFN/tabpfn_benchmark.py`](./TabPFN/tabpfn_benchmark.py)
+  - **Plots & Metrics:** [`TabPFN/results/`](./TabPFN/results/)
 
 ---
 
