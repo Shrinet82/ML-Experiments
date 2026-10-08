@@ -1,0 +1,123 @@
+[{"stream_name":"stderr","time":8.137217169,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":8.137268017,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":8.137276281,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":8.137280477000001,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":8.814773445,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":8.814803744,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":8.814808485,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":8.814812597,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":13.986709249,"data":"\u001b[?25l   \u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m0.0/80.8 kB\u001b[0m \u001b[31m?\u001b[0m eta \u001b[36m-:--:--\u001b[0m\r\u001b[2K   \u001b[91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[90m╺\u001b[0m\u001b[90m━━━━\u001b[0m \u001b[32m71.7/80.8 kB\u001b[0m \u001b[31m6.0 MB/s\u001b[0m eta \u001b[36m0:00:01\u001b[0m\r\u001b[2K   \u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m80.8/80.8 kB\u001b[0m \u001b[31m2.0 MB/s\u001b[0m eta \u001b[36m0:00:00\u001b[0m\r\n"}
+,{"stream_name":"stdout","time":14.088163182,"data":"\u001b[?25h\u001b[?25l   \u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m0.0/501.8 kB\u001b[0m \u001b[31m?\u001b[0m eta \u001b[36m-:--:--\u001b[0m\r\u001b[2K   \u001b[91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[90m╺\u001b[0m \u001b[32m491.5/501.8 kB\u001b[0m \u001b[31m20.1 MB/s\u001b[0m eta \u001b[36m0:00:01\u001b[0m\r\u001b[2K   \u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m501.8/501.8 kB\u001b[0m \u001b[31m10.7 MB/s\u001b[0m eta \u001b[36m0:00:00\u001b[0m\r\n"}
+,{"stream_name":"stdout","time":14.088196625,"data":"\u001b[?25h\u001b[?25l   \u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m0.0/348.7 kB\u001b[0m \u001b[31m?\u001b[0m eta \u001b[36m-:--:--\u001b[0m\r\u001b[2K   \u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m348.7/348.7 kB\u001b[0m \u001b[31m15.9 MB/s\u001b[0m eta \u001b[36m0:00:00\u001b[0m\r\n"}
+,{"stream_name":"stdout","time":14.138856363,"data":"\u001b[?25h\u001b[?25l   \u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m0.0/281.0 kB\u001b[0m \u001b[31m?\u001b[0m eta \u001b[36m-:--:--\u001b[0m\r\u001b[2K   \u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m281.0/281.0 kB\u001b[0m \u001b[31m10.7 MB/s\u001b[0m eta \u001b[36m0:00:00\u001b[0m\r\n"}
+,{"stream_name":"stdout","time":14.18967386,"data":"\u001b[?25h\u001b[?25l   \u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m0.0/50.4 kB\u001b[0m \u001b[31m?\u001b[0m eta \u001b[36m-:--:--\u001b[0m\r\u001b[2K   \u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m50.4/50.4 kB\u001b[0m \u001b[31m2.3 MB/s\u001b[0m eta \u001b[36m0:00:00\u001b[0m\r\n"}
+,{"stream_name":"stdout","time":14.240250487,"data":"\u001b[?25h\u001b[?25l   \u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m0.0/59.9 kB\u001b[0m \u001b[31m?\u001b[0m eta \u001b[36m-:--:--\u001b[0m\r\u001b[2K   \u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m59.9/59.9 kB\u001b[0m \u001b[31m2.7 MB/s\u001b[0m eta \u001b[36m0:00:00\u001b[0m\r\n"}
+,{"stream_name":"stdout","time":21.259782134,"data":"\u001b[?25h\u003e\u003e\u003e STEP 1: SMOKE TEST ON 20 SERIES (1 ORIGIN) \u003c\u003c\u003c\n"}
+,{"stream_name":"stdout","time":21.259809861,"data":"[2026-10-08 05:30:11] === STEP 0: ENVIRONMENT \u0026 HARDWARE VERIFICATION ===\n"}
+,{"stream_name":"stdout","time":21.259815733,"data":"[2026-10-08 05:30:11] Python Version: 3.13.15\n"}
+,{"stream_name":"stdout","time":21.259820283,"data":"[2026-10-08 05:30:11] Platform: linux\n"}
+,{"stream_name":"stdout","time":27.034345694,"data":"[2026-10-08 05:30:18] PyTorch Version: 2.11.0+cu128\n"}
+,{"stream_name":"stdout","time":27.034371596,"data":"[2026-10-08 05:30:19] CUDA Available: True\n"}
+,{"stream_name":"stdout","time":27.034376941,"data":"[2026-10-08 05:30:19] GPU Device: Tesla T4 (14.56 GB VRAM)\n"}
+,{"stream_name":"stdout","time":49.517583075,"data":"[2026-10-08 05:30:41] Library chronos: 2.3.2\n"}
+,{"stream_name":"stdout","time":55.772138916,"data":"[2026-10-08 05:30:47] Library statsforecast: 2.1.1\n"}
+,{"stream_name":"stdout","time":57.063651192,"data":"[2026-10-08 05:30:49] Library lightgbm: 4.6.0\n"}
+,{"stream_name":"stdout","time":57.063687391,"data":"[2026-10-08 05:30:49] Library pandas: 2.3.3\n"}
+,{"stream_name":"stdout","time":57.063693709,"data":"[2026-10-08 05:30:49] Library numpy: 2.1.3\n"}
+,{"stream_name":"stdout","time":57.063698744,"data":"[2026-10-08 05:30:49] Library scipy: 1.16.3\n"}
+,{"stream_name":"stdout","time":57.063704307,"data":"[2026-10-08 05:30:49] === INITIALIZING RUN (Smoke: True, Series: 20, Origins: 1) ===\n"}
+,{"stream_name":"stdout","time":57.063709363,"data":"[2026-10-08 05:30:49] Loading M5 dataset from '/kaggle/input/datasets/aryayadav0513/m5-forecasting-accuracy/m5-forecasting-accuracy'...\n"}
+,{"stream_name":"stdout","time":61.806156554,"data":"[2026-10-08 05:30:53] Total series available in raw sales file: 30,490\n"}
+,{"stream_name":"stdout","time":62.382787707,"data":"[2026-10-08 05:30:54] Series with \u003e= 100 non-zero sales days: 28,387 (93.1%)\n"}
+,{"stream_name":"stdout","time":62.382826227,"data":"[2026-10-08 05:30:54] Sampled exactly 20 series (seed=42).\n"}
+,{"stream_name":"stdout","time":66.559792249,"data":"[2026-10-08 05:30:58] Loaded 4,512 price records for sampled series.\n"}
+,{"stream_name":"stdout","time":66.55981781,"data":"[2026-10-08 05:30:58] --- Running Origin 1 (Train d_1..1857, Test d_1858..1885) ---\n"}
+,{"stream_name":"stdout","time":66.559825101,"data":"[2026-10-08 05:30:58] Origin 1: 0 series with zero seasonal scale excluded from MASE.\n"}
+,{"stream_name":"stdout","time":66.559830952,"data":"[2026-10-08 05:30:58] Executing Seasonal Naive on Origin 1...\n"}
+,{"stream_name":"stdout","time":66.559835841,"data":"[2026-10-08 05:30:58] Executing AutoETS on Origin 1...\n"}
+,{"stream_name":"stdout","time":71.009427759,"data":"[2026-10-08 05:31:03] Executing LightGBM on Origin 1...\n"}
+,{"stream_name":"stderr","time":74.829875622,"data":"Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
+,{"stream_name":"stderr","time":74.829947844,"data":"\n"}
+,{"stream_name":"stderr","time":74.829955174,"data":"Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n"}
+,{"stream_name":"stdout","time":74.85504607,"data":"[2026-10-08 05:31:07] Executing Chronos-Bolt on Origin 1...\n"}
+,{"stream_name":"stderr","time":74.882554801,"data":"[transformers] `torch_dtype` is deprecated! Use `dtype` instead!\n"}
+,{"stream_name":"stderr","time":74.882586115,"data":"\n"}
+,{"stream_name":"stderr","time":74.882591869,"data":"[transformers] `torch_dtype` is deprecated! Use `dtype` instead!\n"}
+,{"stream_name":"stdout","time":83.200197338,"data":"[2026-10-08 05:31:15] Executing Chronos-2 (Zero-Shot) on Origin 1...\n"}
+,{"stream_name":"stdout","time":87.145126711,"data":"[2026-10-08 05:31:19] Executing Chronos-2 (Covariates) on Origin 1...\n"}
+,{"stream_name":"stdout","time":90.170672843,"data":"[2026-10-08 05:31:21] Saved /kaggle/working/smoke_test/per_series_metrics.csv (120 rows)\n"}
+,{"stream_name":"stdout","time":90.170704453,"data":"[2026-10-08 05:31:21] Saved /kaggle/working/smoke_test/runtime.csv\n"}
+,{"stream_name":"stdout","time":90.170711049,"data":"[2026-10-08 05:31:22] Saved /kaggle/working/smoke_test/win_tie_loss.csv\n"}
+,{"stream_name":"stdout","time":90.170716741,"data":"[2026-10-08 05:31:22] Saved /kaggle/working/smoke_test/summary.csv\n"}
+,{"stream_name":"stdout","time":90.170722312,"data":"[2026-10-08 05:31:22] Saved /kaggle/working/smoke_test/newsvendor_sensitivity.csv\n"}
+,{"stream_name":"stdout","time":90.170727915,"data":"[2026-10-08 05:31:22] Generating 4 publication-quality charts...\n"}
+,{"stream_name":"stdout","time":91.666117969,"data":"[2026-10-08 05:31:23] Chart generated: chart1_paired_mase_ci.png\n"}
+,{"stream_name":"stdout","time":91.666162171,"data":"[2026-10-08 05:31:23] Chart generated: chart2_covariates_gain.png\n"}
+,{"stream_name":"stdout","time":91.66616961,"data":"[2026-10-08 05:31:23] Chart generated: chart3_newsvendor_sensitivity.png\n"}
+,{"stream_name":"stdout","time":91.666174784,"data":"[2026-10-08 05:31:23] Chart generated: chart4_runtime_comparison.png\n"}
+,{"stream_name":"stdout","time":91.666180064,"data":"[2026-10-08 05:31:23] === BENCHMARK EXECUTION COMPLETED SUCCESSFULLY ===\n"}
+,{"stream_name":"stdout","time":91.666185683,"data":"\u003e\u003e\u003e STEP 1 SMOKE TEST PASSED! PROCEEDING TO FULL 1,000-SERIES RUN \u003c\u003c\u003c\n"}
+,{"stream_name":"stdout","time":91.666192002,"data":"\u003e\u003e\u003e STEP 2: FULL RUN (1,000 SERIES, 3 ROLLING ORIGINS) \u003c\u003c\u003c\n"}
+,{"stream_name":"stdout","time":91.666196982,"data":"[2026-10-08 05:31:23] === STEP 0: ENVIRONMENT \u0026 HARDWARE VERIFICATION ===\n"}
+,{"stream_name":"stdout","time":91.666201921,"data":"[2026-10-08 05:31:23] Python Version: 3.13.15\n"}
+,{"stream_name":"stdout","time":91.666206677,"data":"[2026-10-08 05:31:23] Platform: linux\n"}
+,{"stream_name":"stdout","time":91.666213178,"data":"[2026-10-08 05:31:23] PyTorch Version: 2.11.0+cu128\n"}
+,{"stream_name":"stdout","time":91.666222481,"data":"[2026-10-08 05:31:23] CUDA Available: True\n"}
+,{"stream_name":"stdout","time":91.666225749,"data":"[2026-10-08 05:31:23] GPU Device: Tesla T4 (14.56 GB VRAM)\n"}
+,{"stream_name":"stdout","time":91.666229005,"data":"[2026-10-08 05:31:23] Library chronos: 2.3.2\n"}
+,{"stream_name":"stdout","time":91.666232579,"data":"[2026-10-08 05:31:23] Library statsforecast: 2.1.1\n"}
+,{"stream_name":"stdout","time":91.666271726,"data":"[2026-10-08 05:31:23] Library lightgbm: 4.6.0\n"}
+,{"stream_name":"stdout","time":91.666277152,"data":"[2026-10-08 05:31:23] Library pandas: 2.3.3\n"}
+,{"stream_name":"stdout","time":91.666280699,"data":"[2026-10-08 05:31:23] Library numpy: 2.1.3\n"}
+,{"stream_name":"stdout","time":91.666284119,"data":"[2026-10-08 05:31:23] Library scipy: 1.16.3\n"}
+,{"stream_name":"stdout","time":91.666287893,"data":"[2026-10-08 05:31:23] === INITIALIZING RUN (Smoke: False, Series: 1000, Origins: 3) ===\n"}
+,{"stream_name":"stdout","time":91.666291704,"data":"[2026-10-08 05:31:23] Loading M5 dataset from '/kaggle/input/datasets/aryayadav0513/m5-forecasting-accuracy/m5-forecasting-accuracy'...\n"}
+,{"stream_name":"stdout","time":95.533596754,"data":"[2026-10-08 05:31:27] Total series available in raw sales file: 30,490\n"}
+,{"stream_name":"stdout","time":96.113158099,"data":"[2026-10-08 05:31:28] Series with \u003e= 100 non-zero sales days: 28,387 (93.1%)\n"}
+,{"stream_name":"stdout","time":96.113201806,"data":"[2026-10-08 05:31:28] Sampled exactly 1000 series (seed=42).\n"}
+,{"stream_name":"stdout","time":99.988195615,"data":"[2026-10-08 05:31:32] Loaded 226,776 price records for sampled series.\n"}
+,{"stream_name":"stdout","time":99.988261682,"data":"[2026-10-08 05:31:32] --- Running Origin 1 (Train d_1..1857, Test d_1858..1885) ---\n"}
+,{"stream_name":"stdout","time":104.853223782,"data":"[2026-10-08 05:31:35] Origin 1: 0 series with zero seasonal scale excluded from MASE.\n"}
+,{"stream_name":"stdout","time":104.853269012,"data":"[2026-10-08 05:31:35] Executing Seasonal Naive on Origin 1...\n"}
+,{"stream_name":"stdout","time":104.853274025,"data":"[2026-10-08 05:31:35] Executing AutoETS on Origin 1...\n"}
+,{"stream_name":"stdout","time":169.415167215,"data":"[2026-10-08 05:32:41] Executing LightGBM on Origin 1...\n"}
+,{"stream_name":"stdout","time":197.816966334,"data":"[2026-10-08 05:33:09] Executing Chronos-Bolt on Origin 1...\n"}
+,{"stream_name":"stdout","time":200.856004899,"data":"[2026-10-08 05:33:13] Executing Chronos-2 (Zero-Shot) on Origin 1...\n"}
+,{"stream_name":"stdout","time":205.182768036,"data":"[2026-10-08 05:33:17] Executing Chronos-2 (Covariates) on Origin 1...\n"}
+,{"stream_name":"stdout","time":223.511910038,"data":"[2026-10-08 05:33:35] --- Running Origin 2 (Train d_1..1885, Test d_1886..1913) ---\n"}
+,{"stream_name":"stdout","time":228.413521348,"data":"[2026-10-08 05:33:38] Origin 2: 0 series with zero seasonal scale excluded from MASE.\n"}
+,{"stream_name":"stdout","time":228.413568795,"data":"[2026-10-08 05:33:38] Executing Seasonal Naive on Origin 2...\n"}
+,{"stream_name":"stdout","time":228.413574005,"data":"[2026-10-08 05:33:39] Executing AutoETS on Origin 2...\n"}
+,{"stream_name":"stdout","time":292.553925557,"data":"[2026-10-08 05:34:44] Executing LightGBM on Origin 2...\n"}
+,{"stream_name":"stdout","time":318.361650103,"data":"[2026-10-08 05:35:10] Executing Chronos-Bolt on Origin 2...\n"}
+,{"stream_name":"stdout","time":321.505937648,"data":"[2026-10-08 05:35:13] Executing Chronos-2 (Zero-Shot) on Origin 2...\n"}
+,{"stream_name":"stdout","time":325.969567489,"data":"[2026-10-08 05:35:18] Executing Chronos-2 (Covariates) on Origin 2...\n"}
+,{"stream_name":"stdout","time":347.452225961,"data":"[2026-10-08 05:35:37] --- Running Origin 3 (Train d_1..1913, Test d_1914..1941) ---\n"}
+,{"stream_name":"stdout","time":350.469383986,"data":"[2026-10-08 05:35:40] Origin 3: 0 series with zero seasonal scale excluded from MASE.\n"}
+,{"stream_name":"stdout","time":350.469426232,"data":"[2026-10-08 05:35:40] Executing Seasonal Naive on Origin 3...\n"}
+,{"stream_name":"stdout","time":350.469442244,"data":"[2026-10-08 05:35:41] Executing AutoETS on Origin 3...\n"}
+,{"stream_name":"stdout","time":415.159805153,"data":"[2026-10-08 05:36:47] Executing LightGBM on Origin 3...\n"}
+,{"stream_name":"stdout","time":443.450497286,"data":"[2026-10-08 05:37:15] Executing Chronos-Bolt on Origin 3...\n"}
+,{"stream_name":"stdout","time":446.660944618,"data":"[2026-10-08 05:37:18] Executing Chronos-2 (Zero-Shot) on Origin 3...\n"}
+,{"stream_name":"stdout","time":451.241744829,"data":"[2026-10-08 05:37:23] Executing Chronos-2 (Covariates) on Origin 3...\n"}
+,{"stream_name":"stdout","time":472.23467666,"data":"[2026-10-08 05:37:44] Saved /kaggle/working/per_series_metrics.csv (18000 rows)\n"}
+,{"stream_name":"stdout","time":472.234722798,"data":"[2026-10-08 05:37:44] Saved /kaggle/working/runtime.csv\n"}
+,{"stream_name":"stdout","time":473.382535227,"data":"[2026-10-08 05:37:45] Saved /kaggle/working/win_tie_loss.csv\n"}
+,{"stream_name":"stdout","time":473.382567982,"data":"[2026-10-08 05:37:45] Saved /kaggle/working/summary.csv\n"}
+,{"stream_name":"stdout","time":473.382573757,"data":"[2026-10-08 05:37:45] Saved /kaggle/working/newsvendor_sensitivity.csv\n"}
+,{"stream_name":"stdout","time":473.382579256,"data":"[2026-10-08 05:37:45] Generating 4 publication-quality charts...\n"}
+,{"stream_name":"stdout","time":474.39186285,"data":"[2026-10-08 05:37:46] Chart generated: chart1_paired_mase_ci.png\n"}
+,{"stream_name":"stdout","time":474.391891357,"data":"[2026-10-08 05:37:46] Chart generated: chart2_covariates_gain.png\n"}
+,{"stream_name":"stdout","time":474.392060247,"data":"[2026-10-08 05:37:46] Chart generated: chart3_newsvendor_sensitivity.png\n"}
+,{"stream_name":"stdout","time":474.392097067,"data":"[2026-10-08 05:37:46] Chart generated: chart4_runtime_comparison.png\n"}
+,{"stream_name":"stdout","time":474.392104995,"data":"[2026-10-08 05:37:46] === BENCHMARK EXECUTION COMPLETED SUCCESSFULLY ===\n"}
+,{"stream_name":"stdout","time":474.39210999,"data":"\u003e\u003e\u003e STEP 2 FULL BENCHMARK RUN COMPLETED! ALL ARTIFACTS WRITTEN. \u003c\u003c\u003c\n"}
+,{"stream_name":"stderr","time":479.947501705,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":479.947544638,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":480.132119576,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":480.132172166,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":480.964712117,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":481.082012711,"data":"[NbConvertApp] Writing 289333 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":483.78955626,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":484.609136918,"data":"[NbConvertApp] Writing 700732 bytes to __results__.html\n"}
+]

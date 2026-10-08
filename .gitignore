@@ -45,3 +45,7 @@ catboost_info/
 Thumbs.db
 .vscode/
 .idea/
+
+# Intermediate model predictions
+intermediates/
+*.npy

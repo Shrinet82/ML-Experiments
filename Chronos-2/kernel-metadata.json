@@ -1,0 +1,17 @@
+{
+  "id": "madlunatic/chronos-2-m5-retail-demand-benchmark",
+  "title": "Chronos-2 M5 Retail Demand Benchmark",
+  "code_file": "chronos2_benchmark.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "dataset_sources": [
+    "aryayadav0513/m5-forecasting-accuracy"
+  ],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}
