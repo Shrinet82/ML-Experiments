@@ -42,6 +42,7 @@ An empirical benchmark evaluating **Amazon Chronos-2** ([arXiv:2510.15821](https
 * [`newsvendor_sensitivity.csv`](results/newsvendor_sensitivity.csv): Newsvendor inventory cost evaluation across cost ratios.
 * [`runtime.csv`](results/runtime.csv): Wall-clock timing per 1,000 series.
 * Charts: `chart1_paired_mase_ci.png`, `chart2_covariates_gain.png`, `chart3_newsvendor_sensitivity.png`, `chart4_runtime_comparison.png`.
+* [`Chronos2_Shipping_Label_v2.pdf`](Chronos2_Shipping_Label_v2.pdf): Executive summary shipping label / benchmark card.
 
 ## Reproducibility
 * Kaggle Kernel: `madlunatic/chronos-2-m5-retail-demand-benchmark`

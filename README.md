@@ -9,7 +9,7 @@ A curated collection of empirical machine learning benchmarks, foundation model 
 | Module | Description | Key Deliverables | Status |
 | :--- | :--- | :--- | :---: |
 | [**TabPFN**](./TabPFN) | **Tabular Foundation Models vs Tuned GBDTs** (Nature 2025 benchmark, in-context Bayesian inference vs CatBoost/XGBoost/LightGBM, 25-fold Stratified CV, epistemic uncertainty rejection curves) | Report, Benchmark Scripts, Notebook, Results & Presentation Deck | Completed |
-| [**Chronos-2**](./Chronos-2) | **Chronos-2 Time Series Foundation Model vs Baselines on M5 Retail Demand** (arXiv:2510.15821 replication, 1,000 item-store series, 3 rolling origins, paired bootstrap CIs, Newsvendor cost) | Report, Benchmark Scripts, Notebook, Results & 4 Visual Charts | In Progress |
+| [**Chronos-2**](./Chronos-2) | **Chronos-2 Time Series Foundation Model vs Baselines on M5 Retail Demand** (arXiv:2510.15821 replication, 1,000 item-store series, 3 rolling origins, paired bootstrap CIs, Newsvendor cost) | Report, Benchmark Scripts, Notebook, Results, 4 Visual Charts & Executive PDF | Completed |
 
 ---
 
@@ -30,6 +30,7 @@ A curated collection of empirical machine learning benchmarks, foundation model 
 * **Key Inquiries:** Univariate zero-shot accuracy, in-context value of future-known covariates (price, calendar, SNAP), asymmetric Newsvendor inventory costs, and 10,000-resample paired bootstrap hypothesis testing.
 * **Deliverables:**
   - **Empirical Report:** [`Chronos-2/BENCHMARK_REPORT.md`](./Chronos-2/BENCHMARK_REPORT.md)
+  - **Executive PDF / Shipping Label:** [`Chronos-2/Chronos2_Shipping_Label_v2.pdf`](./Chronos-2/Chronos2_Shipping_Label_v2.pdf)
   - **Interactive Notebook:** [`Chronos-2/chronos2_benchmark.ipynb`](./Chronos-2/chronos2_benchmark.ipynb)
   - **Standalone Benchmark Script:** [`Chronos-2/chronos2_benchmark.py`](./Chronos-2/chronos2_benchmark.py)
   - **Plots & Metrics:** [`Chronos-2/results/`](./Chronos-2/results/)
